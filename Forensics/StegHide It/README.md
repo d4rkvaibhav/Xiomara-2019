@@ -16,7 +16,13 @@ After runnning the command to crack the password using Stegcracker and rockyou.t
 
 I got the password:
 	
-	xiomara
+	StegCracker - (https://github.com/Paradoxis/StegCracker)
+	Copyright (c) 2019 - Luke Paris (Paradoxis)
+
+	Attacking file 'stego.jpg' with wordlist 'rockyou.txt'..
+	Successfully cracked file with password: xiomara
+	Your file has been written to: stego.jpg.out
+
 
 now using the steghide i got the flag :
 
