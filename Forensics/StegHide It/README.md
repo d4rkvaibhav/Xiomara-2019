@@ -7,8 +7,7 @@ Problem points : 50
 Solution:
 
 By challenge name we know that steghide is used but we don't know the password so i we stegcracker which you can find here:
-	
-	For stegcracker [click here](https://github.com/Paradoxis/StegCracker)
+For stegcracker [click here](https://github.com/Paradoxis/StegCracker)
 
 After runnning the command to crack the password using Stegcracker and rockyou.txt
 	
