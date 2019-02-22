@@ -7,7 +7,7 @@ Solution:
 
 In this we have been given a java class file.You can see the file [HERE](/Rev/Login/Login.class).
 
-I decompiled the .class file to java file using this [wesite](http://www.javadecompilers.com/).You can see the decompiled file [Here](/Rev/Login/Login.java).
+I decompiled the .class file to java file using this [website](http://www.javadecompilers.com/).You can see the decompiled file [Here](/Rev/Login/Login.java).
 
 I just added 2 command in the code to reveal Username and password :
 	
